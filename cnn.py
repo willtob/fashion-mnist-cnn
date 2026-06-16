@@ -48,7 +48,7 @@ criterion = nn.CrossEntropyLoss()
 optimizer = optim.Adam(net.parameters(), lr=0.001)
 
 # training loop
-for epoch in range(1):
+for epoch in range(7):
     for images, labels in dataloader_train:
         optimizer.zero_grad()
         outputs = net(images)

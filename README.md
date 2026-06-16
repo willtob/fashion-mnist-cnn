@@ -8,20 +8,20 @@ I only ran 1 epoch to cut down on training time, but feel free to run it through
 
 ## Results
 
-Trained for 1 epoch — overall accuracy: **87.5%**
+Trained for 7 epochs — overall accuracy: **91.0%**
 
 | Class | Precision | Recall |
 |---|---|---|
-| T-shirt/top | 0.78 | 0.88 |
-| Trouser | 0.99 | 0.96 |
-| Pullover | 0.86 | 0.75 |
-| Dress | 0.80 | 0.94 |
-| Coat | 0.78 | 0.81 |
-| Sandal | 0.99 | 0.93 |
-| Shirt | 0.73 | 0.59 |
-| Sneaker | 0.91 | 0.98 |
-| Bag | 0.96 | 0.97 |
-| Ankle boot | 0.95 | 0.94 |
+| T-shirt/top | 0.83 | 0.89 |
+| Trouser | 0.99 | 0.98 |
+| Pullover | 0.80 | 0.91 |
+| Dress | 0.90 | 0.92 |
+| Coat | 0.87 | 0.84 |
+| Sandal | 0.99 | 0.97 |
+| Shirt | 0.81 | 0.66 |
+| Sneaker | 0.96 | 0.97 |
+| Bag | 0.98 | 0.98 |
+| Ankle boot | 0.97 | 0.97 |
 
 ## Classes
 
